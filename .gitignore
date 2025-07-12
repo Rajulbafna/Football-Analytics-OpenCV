@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+output_videos/
+*.zip
+*.pt
+.DS_Store
+.env
